@@ -1,3 +1,5 @@
+Forked it to play around with.
+
 # Kauri Anticheat
 
 This project was originally closed source and is now open source. Since I will not be able to commit as much as I used to, I have decided it would be best to
